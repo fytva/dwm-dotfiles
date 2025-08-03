@@ -1,0 +1,22 @@
+theme = "gruvbox"
+
+[editor]
+line-number = "relative"
+mouse = true
+bufferline = "multiple"
+color-modes = true
+end-of-line-diagnostics = "warning"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.soft-wrap]
+enable = true
+max-wrap = 20
+
+[keys.normal]
+C-up = "@Xd<up>P"
+C-down = "@Xdp"
+D = "@t<ret>d"

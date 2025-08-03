@@ -1,0 +1,45 @@
+[font]
+size = 10.0 
+
+[font.normal]
+family = "Iosevka Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "Iosevka Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "Iosevka Nerd Font"
+style = "Italic"
+
+[window]
+opacity = 1.0
+
+[cursor.style]
+shape = "beam"
+blinking = "Always"
+
+[colors.primary]
+background = "#282828"  # Gruvbox background
+foreground = "#ebdbb2"  # Gruvbox foreground
+
+[colors.normal]
+black   = "#1d2021"  # Gruvbox dark black
+red     = "#fb4934"  # Gruvbox red
+green   = "#b8bb26"  # Gruvbox green
+yellow  = "#fabd2f"  # Gruvbox yellow
+blue    = "#83a598"  # Gruvbox blue
+magenta = "#d3869b"  # Gruvbox magenta
+cyan    = "#8ec07c"  # Gruvbox cyan
+white   = "#ebdbb2"  # Gruvbox white
+
+[colors.bright]
+black   = "#928374"  # Gruvbox bright black
+red     = "#fb4934"  # Gruvbox bright red
+green   = "#b8bb26"  # Gruvbox bright green
+yellow  = "#fabd2f"  # Gruvbox bright yellow
+blue    = "#83a598"  # Gruvbox bright blue
+magenta = "#d3869b"  # Gruvbox bright magenta
+cyan    = "#8ec07c"  # Gruvbox bright cyan
+white   = "#f2e5bc"  # Gruvbox bright white
